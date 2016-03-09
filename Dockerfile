@@ -1,4 +1,4 @@
-FROM develar/java:8u45
+FROM quay.io/opsee/java8u45
 
 RUN apk add --update bash curl ca-certificates
 
